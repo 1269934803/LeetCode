@@ -23,9 +23,8 @@ using namespace std;
  *	int val;
  *	struct ListNode *next;
  * };
- * /
- 
- 
+ */
+
  struct ListNode *removeNthFromEnd (struct ListNode *head, int n) {
 	struct ListNode *current_node, *next_node, ret;
 	ret.next = head;
