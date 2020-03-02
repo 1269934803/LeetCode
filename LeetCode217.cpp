@@ -5,8 +5,17 @@
 	> Created Time: 2020年03月02日 星期一 11时30分32秒
  ************************************************************************/
 
-#include <stdio.h>
-#include <stdlib.h>
+#include<iostream>
+#include<cstdio>
+#include<cstdlib>
+#include<algorithm>
+#include<stack>
+#include<vector>
+#include<map>
+#include<queue>
+#include<cmath>
+#include<cstring>
+using namespace std;
 
 class Solution{
 public:
